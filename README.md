@@ -1,8 +1,4 @@
-# Getting Started
-Install the dependencies and run the project
-```
-Learning Tailwind CSS
-```
+# Learning Tailwind CSS
 
 Head over to https://vitejs.dev/ to learn more about configuring vite
 ## About Scrimba
